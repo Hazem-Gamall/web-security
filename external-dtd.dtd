@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///etc/fstab">
+<!ENTITY % file SYSTEM "https://internal.websec.cs.uni-paderborn.de/second">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
 <!ENTITY all "%start;%file;%end;">
